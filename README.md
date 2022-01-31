@@ -1,16 +1,15 @@
-### Hi there 👋
+###  **Hi, I'm Lilia  Andrea Ruiz Coronel**
+#### Future iOs Developer 
 
-<!--
-**LiliaR37/LiliaR37** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Hi, I'm Lilia, but you can call me Andrea (It's easier to remember). I'm a Software Development  student and a self-taught  iOS Developer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skills: HTML / CSS / SASS / SWIFT / SWIFTUI 
+
+- 🔭 I’m currently working on #100DaysOfSwiftUI 
+- 🌱 I’m currently learning SwiftUI 
+- ⚡ Fun fact: I am a huge dog lover. Especially chihuahuas  
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/LiliaR37)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/lilia-ruiz-coronel-4811ab142//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/Andreadev5)  
+
