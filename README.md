@@ -2,7 +2,7 @@
 ![I am GitHub Readme Generator's creator](https://github.com/LiliaR37/LiliaR37/blob/main/LR.png)
 
 ###  **Hi, I'm Lilia  Andrea Ruiz Coronel**
-### Future iOs Developer ⭐
+### Future iOS Developer ⭐
 
 
 I'm Lilia, but you can call me Andrea (It's easier to remember). I'm a Software Development  student and a self-taught  iOS Developer.
